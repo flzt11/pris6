@@ -12,7 +12,7 @@ AI课程任务6 - 基于 KMeans 手写字符识别的实现，提供了数据集
 2. 克隆项目并安装依赖：
     ```bash
     git clone https://github.com/flzt11/pris6.git 
-    pip install ./pris7
+    pip install ./pris6
     ```
 
 ## 启动说明
