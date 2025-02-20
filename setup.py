@@ -4,7 +4,7 @@ setup(
     name='pris6',
     version='0.1',
     description='A package for performing various tasks related to dataset loading, evaluation, and visualization.',
-    long_description=open('README.md').read(),  # 可选，如果有 README 文件
+    # long_description=open('README.md').read(),  # 可选，如果有 README 文件
     long_description_content_type='text/markdown',  # 如果使用 Markdown 格式
     author='Zhang Kailong',
     author_email='zhangkailong@bupt.edu.cn',
