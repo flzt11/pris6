@@ -5,7 +5,7 @@ AI课程任务6 - 基于 KMeans 手写字符识别的实现，提供了数据集
 ## 使用说明
 1. 创建并激活虚拟环境：
     ```bash
-    conda create -n pris6 python=3.6
+    conda create -n pris6 python=3.9
     conda activate pris6
     ```
 
@@ -25,7 +25,6 @@ AI课程任务6 - 基于 KMeans 手写字符识别的实现，提供了数据集
     ```
 
 ## 依赖项
-- Python 3.7
+- Python 3.9
 - Conda
-- PyTorch (CUDA 11.7)
 
